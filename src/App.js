@@ -11,7 +11,7 @@ import {
 import MainNavigation from "./shared/components/Navigation/MainNavigation";
 // import UserPlaces from "./places/pages/UserPlaces";
 // import UpdatePlace from "./places/pages/UpdatePlace";
-// import AuthPage from "./user/pages/Auth";
+
 import { AuthContext } from "./shared/context/auth-context";
 import useAuth from "./shared/hooks/auth-hook";
 
