@@ -3,6 +3,8 @@ Welcome to the front-end of Places. This full-stack project was built following 
 
 To view the hosted application and start using the app please use the following URL; https://mern-course-app-frontend.web.app/
 
+The back-end of this application is contained within mern-course-backend repository.
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
