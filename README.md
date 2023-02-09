@@ -1,5 +1,5 @@
 # Places 
-Welcome to the front-end of Places. This project was built following a tutorial as part of <a href='https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide'>The MERN Fullstack Guide</a> course by Maximilian Schwarzmüller. 
+Welcome to the front-end of Places. This full-stack project was built following a tutorial as part of <a href='https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide'>The MERN Fullstack Guide</a> course by Maximilian Schwarzmüller. 
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -10,7 +10,8 @@ Welcome to the front-end of Places. This project was built following a tutorial 
 
 
 ## General Information
-
+This applications allows users to create, edit and delete details of their favorite destinations. 
+Users can view the places of all users registered, however cannot edit details of places which are not their own. 
 
 ## Technologies Used
 - JavaScript 
@@ -20,7 +21,10 @@ Welcome to the front-end of Places. This project was built following a tutorial 
 - MongoDB
 
 ## Features
-
+- Image upload to cloudinary 
+- JWT user authentication 
+- Location geocoding using the Google Geocoding API 
+- Rendered Map using the Google Maps API
 
 ## Screenshots
 <img src="https://user-images.githubusercontent.com/99369057/217676519-1ec2eb72-17cd-4624-b076-5b7e4bf134f6.png" width="600">
