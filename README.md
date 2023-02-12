@@ -1,9 +1,9 @@
 # Places 
 Welcome to the front-end of Places. This full-stack project was built following a tutorial as part of <a href='https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide'>The MERN Fullstack Guide</a> course by Maximilian Schwarzmüller. 
 
-To view the hosted application and start using the app please use the following URL; https://mern-course-app-frontend.web.app/
+To view the hosted application and start using the app please click <a href='https://mern-course-app-frontend.web.app/'>here</a>
 
-The back-end of this application is contained within mern-course-backend repository.
+The back-end of this application is contained within the mern-course-backend repository.
 
 ## Table of Contents
 * [General Info](#general-information)
